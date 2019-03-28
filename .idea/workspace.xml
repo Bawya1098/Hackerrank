@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="972f8171-74ef-47ef-8ac5-e7b70ce4aa09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Hackerrank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/final_yr_project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/Guessing_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/Guessletter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/Queen_attack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/angryprofessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/climbingleader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/compare_triplets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/cows_bulls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/day_test_2/ascen_desc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/day_test_2/fibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/day_test_2/sherlock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/day_test_2/sum_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/day_test_2/sum_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/defaultdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/delete_node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/diagonal_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/divisiblesumpairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/encryption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/first_last.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/grading_students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/hackerrank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/halloween.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/jumpingclouds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/leftrotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/maxtoys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/meal_cost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/migratory_birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/minimax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/nondivisiblesets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/notification_for_Expenditure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/notification_medium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/minimum_swaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/pattern3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/pattern4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/pattern5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/pattern_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/pattern_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/pattern_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/pattern/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practice_w3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practicepython_org/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practicepython_org/anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practicepython_org/binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practicepython_org/binary_search_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practicepython_org/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practicepython_org/rabbit_chicken.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practicepython_org/reverse_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/practise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/repeated_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/reverseorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/string_minion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/sum_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/sum_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/hackerrank/word_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/Database_list" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/Database_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/app_first.py" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/app_first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/check_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/check_box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/report.py" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Employee_choice.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Employee_choice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Juice_world.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Juice_world.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Madras_cafe.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Madras_cafe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Thanks.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Thanks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/Welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/availability_hot_beverages.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/availability_hot_beverages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/practice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/report_hot.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/report_hot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/types_vendor.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/types_vendor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/vendor choice.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/vendor choice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/vendor login.html" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/templates/vendor login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/vendor login.py" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/vendor login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/vendor_menu_juice.py" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeCafe-UI-FrontEnd/vendor_menu_juice.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hackerrank/hackerrank/pattern/quiz.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hackerrank" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="972f8171-74ef-47ef-8ac5-e7b70ce4aa09" name="Default Changelist" comment="" />
+      <created>1549868100142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549868100142</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hackerrank/hackerrank/pattern/quiz.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
