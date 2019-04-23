@@ -1,6 +1,5 @@
 import pandas as csv
 
-
 stores = csv.read_csv('stores.csv', delimiter=',')
 location = csv.read_csv('exercise_1_location.csv', delimiter=',')
 
@@ -11,6 +10,7 @@ def build_area_4000():
 
 
 build_area_4000()
+
 
 def most_number_stores():
     pincode_stores = stores['pincode']
@@ -81,13 +81,30 @@ def city_contain_z():
         else:
             d[city_list[c]] = d[city_list[c]] + ',' + str(store[c])
 
-    print(d.values())
+    values = d.values()
+    values_list = []
+    print(values)
+    for v in values:
+        values_list.append(v)
+    for v in range(0, len(values_list) - 1):
+
+        cal = len(values_list[v])
+        cal_1 = len(values_list[v + 1])
+        if cal < cal_1:
+            max = values_list[v + 1]
+        else:
+            max = values_list[v]
+    print(max)
+    for key, value in d.items():
+
+        if max == value:
+            print(key)
 
 
 city_contain_z()
 
 
-def city_contain_z():
+def no_of_stores():
     city = location['city']
     store = stores['store_name']
     city_list = []
@@ -120,7 +137,7 @@ def city_contain_z():
     print(result_dict)
 
 
-city_contain_z()
+no_of_stores()
 
 
 def sum_buildarea():
@@ -145,6 +162,7 @@ def sum_buildarea():
 
 sum_buildarea()
 
+
 def sunday_saturday():
     date = stores['date_of_opening']
     store = stores['store_name']
@@ -155,5 +173,6 @@ def sunday_saturday():
     for i in date_list:
         date = i.split('/')
         print(date)
+
 
 sunday_saturday()
