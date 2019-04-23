@@ -84,22 +84,6 @@ def city_contain_z():
     values = d.values()
     values_list = []
     print(values)
-    for v in values:
-        values_list.append(v)
-    for v in range(0, len(values_list) - 1):
-
-        cal = len(values_list[v])
-        cal_1 = len(values_list[v + 1])
-        if cal < cal_1:
-            max = values_list[v + 1]
-        else:
-            max = values_list[v]
-    print(max)
-    for key, value in d.items():
-
-        if max == value:
-            print(key)
-
 
 city_contain_z()
 
